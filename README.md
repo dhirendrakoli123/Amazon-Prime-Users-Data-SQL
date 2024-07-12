@@ -15,3 +15,22 @@ FROM amazon_prime_users
 Result:
 
 ![Q1](https://i.imgur.com/X4Dyfiv.png)
+
+## 2. Distribution of gender
+```mysql
+SELECT gender, COUNT(gender) AS No_of_users
+FROM amazon_prime_users
+GROUP BY gender
+```
+Result:
+
+
+## 3. Subscription View
+```mysql
+SELECT Subscription Plan, COUNT(Subscription Plan) AS plan_view
+FROM amazon_prime_users
+GROUP BY Subscription Plan 
+``
+Result:
+
+

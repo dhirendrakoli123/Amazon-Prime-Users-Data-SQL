@@ -3,6 +3,8 @@
 
 [Datasets Used](https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset/data)
 
+[SQL Analysis (Code)](https://github.com/dhirendrakoli123/Amazon-Prime-Users-Data-SQL/blob/main/Amazon_Prime_Users_Data_SQL_Analysis.sql)
+
 **Objective:** The goal of this analysis is to evaluate the collected data to gain more knowledge about the type of engagement these users have with the service. This is a simple but effective analysis, capable of extracting some statistic infomation with precision.
 
 ## Questions I Wanted To Answer From the Dataset:

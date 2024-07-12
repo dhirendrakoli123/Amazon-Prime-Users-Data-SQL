@@ -79,7 +79,7 @@ ORDER BY no_of_users DESC
 ```
 Result:
 
-![Q7}(https://i.imgur.com/XK6n0uu.png)
+![Q7](https://i.imgur.com/XK6n0uu.png)
 
 ## Conclusion
 There's no meaningful correlation between the main variables in this dataset. The data is very homogeneous and a more detailed analysis might be require to get more info. However it was good to draw some flat conclusions.
